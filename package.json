@@ -1,0 +1,15 @@
+{
+  "name": "Igrecway.FamilyBudget",
+  "version": "0.0.0",
+  "description": "Igrecway.FamilyBudget",
+  "main": "app.js",
+  "author": {
+    "name": "evgeni0us",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
